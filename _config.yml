@@ -10,7 +10,7 @@ title: Ryan Hatfield
 email: ryan.hatfield@ryan.bio
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website of Ryan Hatfield. Home to blog posts, comments, and thoughts.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ryan-dot-bio" # the subpath of your site, e.g. /blog
 url: "http://ryan.bio" # the base hostname & protocol for your site
 twitter_username: BeardFromFargo
 github_username:  RyanHatfield
